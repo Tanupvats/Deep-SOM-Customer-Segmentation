@@ -4,12 +4,14 @@ Hierarchical **Self Organizing Map (Deep SOM)** based customer segmentation pipe
 
 The system creates **micro-segments (Layer 1)** and **macro-segments (Layer 2)** using a 2-level SOM topology.
 
-<div style="width:100%; display:flex; gap:20px;">
-  <img src="./visualizations/demo_layer_1.gif" 
-       style="width:50%; height:auto; object-fit:contain;" />
+<div style="display:flex; width:100%; gap:16px;">
 
-  <img src="./visualizations/demo_macro_cluster.gif" 
-       style="width:50%; height:auto; object-fit:contain;" />
+<img src="./visualizations/demo_layer_1.gif"
+     style="flex:1; width:0; min-width:0; height:auto;" />
+
+<img src="./visualizations/demo_macro_cluster.gif"
+     style="flex:1; width:0; min-width:0; height:auto;" />
+
 </div>
 
 Supports:
