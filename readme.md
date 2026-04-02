@@ -13,6 +13,11 @@ Supports:
 * 2D and 3D visualization
 * hierarchical segmentation
 
+<p align="center">
+  <img src="training.gif" width="49%" />
+  <img src="inference.gif" width="49%" />
+</p>
+
 ---
 
 # Architecture
